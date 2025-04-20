@@ -2,6 +2,8 @@
 
 Data source: https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset
 
+Энэхүү төсөл нь хүнсний бүтээгдэхүүний датан дээр суурилж хийгдсэн ба нийт 12 асуултанд SQL хэл ашиглан хариулсан.
+
 - How has total monthly revenue changed over time?
 - Which days of the week bring the highest average sales?
 - What is the average order value (AOV) per transaction?
